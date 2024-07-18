@@ -1,5 +1,5 @@
 openvino==2024.2
 openvino-dev==2024.2
 numpy==1.26.4
-matplotlib==3.8.4
-opencv-python==4.5.1.48
+matplotlib
+opencv-python-headless
